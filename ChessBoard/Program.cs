@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.OutputEncoding = System.Text.Encoding.Unicode;
+            Board myBoard = new Board();
+            myBoard.ReadSize();
+            myBoard.RenderBoard();
         }
     }
 }
