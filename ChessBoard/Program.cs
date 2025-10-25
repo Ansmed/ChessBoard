@@ -8,6 +8,7 @@
             Board myBoard = new Board();
             myBoard.ReadSize();
             myBoard.RenderBoard();
+            
         }
     }
 }
