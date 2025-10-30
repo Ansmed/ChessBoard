@@ -2,7 +2,7 @@
 
 Start the program, it will ask you how big the board should be, horizontally and vertically, and then print that out.
 
-# Question Asked to AI: 
+# Question Asked to AI( Claude.ai ): 
 
 What do you think I can improve with this solution of printing a chessboard?
 
