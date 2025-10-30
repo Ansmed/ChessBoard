@@ -12,9 +12,10 @@ namespace ChessBoard
 {
     
     /*
-     * När jag frågade AI vad jag skulle kunna ändra, så kändes alla ändringar väldigt överkomplicerade för detta projekt
+     * När jag frågade AI (Claude.ai ) vad jag skulle kunna ändra, så kändes alla ändringar väldigt överkomplicerade för detta projekt
      * Så jag frågade en kompis som jobbar som programmerare, och han skrev ReadSize() här under som inte är utkommenterad
      * Den kortar ner det till en while loop och gör GetNumber private.
+     * Den exakta frågan jag skrev var: What do you think I can improve with this solution of printing a chessboard?
      */
     public class Board
     {
